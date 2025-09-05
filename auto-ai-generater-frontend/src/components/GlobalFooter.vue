@@ -3,7 +3,7 @@
     <div class="footer-content">
       <p class="copyright">
         <a
-          href="https://www.codefather.cn"
+          href="https://github.com/WilliamZhang0001/Auto-AI-Web-Generator"
           target="_blank"
           rel="noopener noreferrer"
           class="author-link"
