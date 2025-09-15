@@ -3,12 +3,12 @@
     <div class="footer-content">
       <p class="copyright">
         <a
-          href="https://github.com/WilliamZhang0001/Auto-AI-Web-Generator"
+          href="https://github.com/WilliamZhang0001"
           target="_blank"
           rel="noopener noreferrer"
           class="author-link"
         >
-          个人原创项目 by William Zhang
+          个人开发项目 by William张
         </a>
       </p>
     </div>

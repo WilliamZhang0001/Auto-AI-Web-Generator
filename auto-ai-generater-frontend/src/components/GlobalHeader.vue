@@ -6,7 +6,7 @@
         <RouterLink to="/">
           <div class="header-left">
             <img class="logo" src="@/assets/logo.png" alt="Logo" />
-            <h1 class="site-title">AI代码生成平台</h1>
+            <h1 class="site-title">AI网页生成平台</h1>
           </div>
         </RouterLink>
       </a-col>
@@ -26,7 +26,7 @@
             <a-dropdown>
               <a-space>
                 <a-avatar :src="loginUserStore.loginUser.userAvatar" />
-                {{ loginUserStore.loginUser.userName ?? '无名' }}
+                {{ loginUserStore.loginUser.userName ?? 'None' }}
               </a-space>
               <template #overlay>
                 <a-menu>
@@ -83,11 +83,9 @@ const originItems = [
     title: '应用管理',
   },
   {
-    //key: 'others',
-    //label: h('a', { href: 'https://www.codefather.cn', target: '_blank' }, 'About'),
-    key: '/about',
-    label: 'About',
-    title: 'About',
+    key: 'others',
+    label: h('a', { href: 'https://github.com/WilliamZhang0001', target: '_blank' }, 'William个人主页'),
+    title: 'William个人主页',
   },
 ]
 
