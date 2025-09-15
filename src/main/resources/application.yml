@@ -9,9 +9,9 @@ spring:
   # mysql
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/yu_ai_code_mother
+    url: jdbc:mysql://localhost:3306/william_ai_code
     username: root
-    password: 123456
+    password: Zyf132102
   # redis
   data:
     redis:
