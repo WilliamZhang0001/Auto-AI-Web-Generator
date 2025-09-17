@@ -1,10 +1,10 @@
 package com.example.williamaicode.core.saver;
 
 import cn.hutool.core.util.StrUtil;
-import com.yupi.yuaicodemother.ai.model.HtmlCodeResult;
-import com.yupi.yuaicodemother.exception.BusinessException;
-import com.yupi.yuaicodemother.exception.ErrorCode;
-import com.yupi.yuaicodemother.model.enums.CodeGenTypeEnum;
+import com.example.williamaicode.ai.model.HtmlCodeResult;
+import com.example.williamaicode.exception.BusinessException;
+import com.example.williamaicode.exception.ErrorCode;
+import com.example.williamaicode.model.enums.CodeGenTypeEnum;
 
 /**
  * HTML代码文件保存器

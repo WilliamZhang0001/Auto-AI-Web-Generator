@@ -1,8 +1,8 @@
 package com.example.williamaicode.core.handler;
 
-import com.yupi.yuaicodemother.model.entity.User;
-import com.yupi.yuaicodemother.model.enums.CodeGenTypeEnum;
-import com.yupi.yuaicodemother.service.ChatHistoryService;
+import com.example.williamaicode.model.entity.User;
+import com.example.williamaicode.model.enums.CodeGenTypeEnum;
+import com.example.williamaicode.service.ChatHistoryService;
 import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

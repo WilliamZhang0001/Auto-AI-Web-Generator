@@ -1,6 +1,6 @@
 package com.example.williamaicode.core.parser;
 
-import com.yupi.yuaicodemother.ai.model.MultiFileCodeResult;
+import com.example.williamaicode.ai.model.MultiFileCodeResult;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

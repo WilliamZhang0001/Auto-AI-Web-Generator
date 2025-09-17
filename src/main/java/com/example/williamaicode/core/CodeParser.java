@@ -1,7 +1,7 @@
 package com.example.williamaicode.core;
 
-import com.yupi.yuaicodemother.ai.model.HtmlCodeResult;
-import com.yupi.yuaicodemother.ai.model.MultiFileCodeResult;
+import com.example.williamaicode.ai.model.HtmlCodeResult;
+import com.example.williamaicode.ai.model.MultiFileCodeResult;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
