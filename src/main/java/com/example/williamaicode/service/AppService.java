@@ -2,11 +2,11 @@ package com.example.williamaicode.service;
 
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
-import com.yupi.yuaicodemother.model.dto.app.AppAddRequest;
-import com.yupi.yuaicodemother.model.dto.app.AppQueryRequest;
-import com.yupi.yuaicodemother.model.entity.App;
-import com.yupi.yuaicodemother.model.entity.User;
-import com.yupi.yuaicodemother.model.vo.AppVO;
+import com.example.williamaicode.model.dto.app.AppAddRequest;
+import com.example.williamaicode.model.dto.app.AppQueryRequest;
+import com.example.williamaicode.model.entity.App;
+import com.example.williamaicode.model.entity.User;
+import com.example.williamaicode.model.vo.AppVO;
 import reactor.core.publisher.Flux;
 
 import java.util.List;

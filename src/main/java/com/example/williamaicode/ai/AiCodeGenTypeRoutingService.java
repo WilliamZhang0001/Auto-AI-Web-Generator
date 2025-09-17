@@ -1,6 +1,6 @@
 package com.example.williamaicode.ai;
 
-import com.yupi.yuaicodemother.model.enums.CodeGenTypeEnum;
+import com.example.williamaicode.model.enums.CodeGenTypeEnum;
 import dev.langchain4j.service.SystemMessage;
 
 /**

@@ -1,7 +1,7 @@
 package com.example.williamaicode.ai.tools;
 
 import cn.hutool.json.JSONObject;
-import com.yupi.yuaicodemother.constant.AppConstant;
+import com.example.williamaicode.constant.AppConstant;
 import dev.langchain4j.agent.tool.P;
 import dev.langchain4j.agent.tool.Tool;
 import dev.langchain4j.agent.tool.ToolMemoryId;

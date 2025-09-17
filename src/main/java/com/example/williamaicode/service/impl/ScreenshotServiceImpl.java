@@ -2,11 +2,11 @@ package com.example.williamaicode.service.impl;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.StrUtil;
-import com.yupi.yuaicodemother.exception.ErrorCode;
-import com.yupi.yuaicodemother.exception.ThrowUtils;
-import com.yupi.yuaicodemother.manager.CosManager;
-import com.yupi.yuaicodemother.service.ScreenshotService;
-import com.yupi.yuaicodemother.utils.WebScreenshotUtils;
+import com.example.williamaicode.exception.ErrorCode;
+import com.example.williamaicode.exception.ThrowUtils;
+import com.example.williamaicode.manager.CosManager;
+import com.example.williamaicode.service.ScreenshotService;
+import com.example.williamaicode.utils.WebScreenshotUtils;
 import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

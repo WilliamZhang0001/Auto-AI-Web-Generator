@@ -3,9 +3,9 @@ package com.example.williamaicode.service;
 import com.mybatisflex.core.paginate.Page;
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
-import com.yupi.yuaicodemother.model.dto.chathistory.ChatHistoryQueryRequest;
-import com.yupi.yuaicodemother.model.entity.ChatHistory;
-import com.yupi.yuaicodemother.model.entity.User;
+import com.example.williamaicode.model.dto.chathistory.ChatHistoryQueryRequest;
+import com.example.williamaicode.model.entity.ChatHistory;
+import com.example.williamaicode.model.entity.User;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
 
 import java.time.LocalDateTime;
