@@ -1,4 +1,4 @@
-# Auto-AI-Web-Generator
+# 灵构｜Auto-AI-Web-Generator
 Generate a personal website in one sentence
 
 
